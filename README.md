@@ -26,4 +26,4 @@ University project covering the entire process of software engineering, from req
 
 #### Escaner de red a partir de SQL Injection
 
-University paper of how to automate network and port scanning of the internal network through a SQL Injectiton vulnerability in different DBMS.
+University paper of how to automate network and port scanning of an internal network through a SQL Injection vulnerability in different DBMS.
