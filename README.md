@@ -11,7 +11,7 @@ Samples of different protocol attcacks.
 
 #### CTFs
 
-Walkthrough of different CTF labs solved by me.
+Walkthrough of different CTF labs.
 
 
 #### Web Security - Vulnerability Analyses
